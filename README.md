@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suyashnehete
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Advance DSA
+- 🌱 I’m currently exploring Flutter
 - 💞️ I’m looking to collaborate on any open source project based on Flutter
 - 📫 You can reach me using suyashnehete78@gmail.com
 
